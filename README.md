@@ -1,3 +1,3 @@
 # is-124
-Файл для импорта в PIXSO берем по ссылке ниже сдача 22.05
-https://drive.google.com/file/d/1josscoMRsiyKHuOz2AOnqIxzh31D2Nma/view?usp=sharing 
+
+https://www.figma.com/design/yfU4HTWVERKVkKnMs8Hojj/PodOfCast?node-id=1-296&p=f&t=KMC8b2M6yz2s31z5-0
